@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats
 ![Fitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=FitraRiadi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FitraRiadi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FitraRiadi&langs_count=6&layout=compact&theme=radical)
 
 ---
 
