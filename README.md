@@ -1,19 +1,30 @@
-Hi, I'm Fitra 👋
-I'm a Full Stack Developer and Game Dev enthusiast based in Indonesia. I enjoy building functional web apps and messing around with pixel art in game development.
+# Hi, I'm Fitra 👋
 
-🛠️ Tech Stack
-Languages & Backend
+I'm a **Full Stack Developer** and **Game Dev enthusiast** based in Indonesia. I enjoy building functional web apps and messing around with pixel art in game development.
 
-Frontend & Web
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend & Web**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Game Dev & Tools**
+![Pygame](https://img.shields.io/badge/Pygame-4B8BBE?style=flat-square&logo=python&logoColor=white) ![LibGDX](https://img.shields.io/badge/LibGDX-E74C3C?style=flat-square&logo=java&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
 
 
-📊 GitHub Stats
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFitraRiadi%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue" height="150" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFitraRiadi%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" height="150" />
-</p>
+### 📊 GitHub Stats
 
-📫 Let's Talk
-Email: fitrasmkmerdeka@gmail.com
+![Fitra's Stats](https://github-readme-stats.vercel.app/api?username=FitraRiadi&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FitraRiadi&layout=compact&theme=dracula&hide_border=true)
 
-Status: Currently exploring modern frameworks and finishing some indie game mechanics.
+---
+
+### 📫 Let's Talk
+- **Email:** [exortchiststilllearning@gmail.com](mailto:exortchiststilllearning@gmail.com)
+- **Status:** Currently exploring modern frameworks and finishing some indie game mechanics.
