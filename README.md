@@ -1,22 +1,31 @@
 # Hi, I'm Fitra 👋
 
-I'm a **Full Stack Developer** and **Game Dev enthusiast** based in Indonesia. I enjoy building functional web apps and messing around with pixel art in game development.
+I'm a **Full Stack Developer** and **Game Dev enthusiast** based in Indonesia. I enjoy building scalable web applications and exploring pixel-art game development.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Frontend & Web**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Backend & Languages**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Game Dev & Tools**
-![Pygame](https://img.shields.io/badge/Pygame-4B8BBE?style=flat-square&logo=python&logoColor=white) ![LibGDX](https://img.shields.io/badge/LibGDX-E74C3C?style=flat-square&logo=java&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![LibGDX](https://img.shields.io/badge/LibGDX-E74C3C?style=flat-square&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
 
 ### 📊 GitHub Stats
 
@@ -26,5 +35,5 @@ I'm a **Full Stack Developer** and **Game Dev enthusiast** based in Indonesia. I
 ---
 
 ### 📫 Let's Talk
-- **Email:** [exortchiststilllearning@gmail.com](mailto:exortchiststilllearning@gmail.com)
-- **Status:** Currently exploring modern frameworks and finishing some indie game mechanics.
+- **Email:** [fitrasmkmerdeka@gmail.com](mailto:fitrasmkmerdeka@gmail.com)
+- **Status:** Currently building projects & leveling up skills 🚀
