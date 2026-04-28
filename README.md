@@ -1,6 +1,6 @@
 # Hi, I'm Fitra 👋
 
-I'm a **Full Stack Developer** and **Game Dev enthusiast** based in Indonesia. I enjoy building scalable web applications and exploring pixel-art game development.
+I'm a **Full Stack Developer** based in Indonesia who enjoys exploring new technologies and building functional, scalable applications.
 
 ---
 
@@ -12,6 +12,7 @@ I'm a **Full Stack Developer** and **Game Dev enthusiast** based in Indonesia. I
 
 **Backend & Languages**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -19,9 +20,9 @@ I'm a **Full Stack Developer** and **Game Dev enthusiast** based in Indonesia. I
 **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Game Dev & Tools**
+**Tools & Others**
 ![Pygame](https://img.shields.io/badge/Pygame-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![LibGDX](https://img.shields.io/badge/LibGDX-E74C3C?style=flat-square&logo=java&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-2B8CBE?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -36,4 +37,4 @@ I'm a **Full Stack Developer** and **Game Dev enthusiast** based in Indonesia. I
 
 ### 📫 Let's Talk
 - **Email:** [fitrasmkmerdeka@gmail.com](mailto:fitrasmkmerdeka@gmail.com)
-- **Status:** Currently building projects & leveling up skills 🚀
+- **Status:** Currently exploring and building new things 🚀
