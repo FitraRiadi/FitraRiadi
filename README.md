@@ -2,9 +2,9 @@
 
 # Fitra Riyadi
 
-**Full Stack Developer** · Indonesia
+**Junior Full Stack Developer** · Indonesia
 
-*Exploring new technologies and building functional, scalable applications.*
+*Exploring new technologies and building functional, scalable applications.| 2 years experience*
 
 [![Email](https://img.shields.io/badge/Email-fitrasmkmerdeka%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fitrasmkmerdeka@gmail.com)
 
