@@ -2,7 +2,7 @@
 
 # Fitra Riyadi
 
-**Junior Full Stack Developer** · Indonesia
+**Full Stack Developer** · Indonesia
 
 *Exploring new technologies and building functional, scalable applications.| 3 years experience*
 
