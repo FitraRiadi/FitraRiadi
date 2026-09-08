@@ -6,7 +6,7 @@
 *Exploring new technologies, optimizing performance, and building functional, scalable applications.*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fitrasmkmerdeka@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=181717)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/FitraRiadi?label=Followers&style=for-the-badge&color=181717)](https://github.com/FitraRiadi)
 
 ---
 
@@ -55,7 +55,7 @@ Always learning, automating workflows, and experimenting with new tech ecosystem
 ## 🏆 GitHub Trophies
 <div align="center">
 
-[![github trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)](https://github.com/YOUR_GITHUB_USERNAME)
+[![github trophy](https://github-profile-trophy.vercel.app/?username=FitraRiadi&theme=onedark)](https://github.com/FitraRiadi)
 
 </div>
 
@@ -67,15 +67,15 @@ Always learning, automating workflows, and experimenting with new tech ecosystem
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Fitra's GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=FitraRiadi&show_icons=true&theme=dark" alt="Fitra's GitHub Stats" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitraRiadi&layout=compact&theme=dark" alt="Top Languages" width="350" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" width="760" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FitraRiadi&theme=dark" alt="GitHub Streak" width="760" />
       </td>
     </tr>
   </table>
@@ -89,5 +89,5 @@ Always learning, automating workflows, and experimenting with new tech ecosystem
 
 <div align="center">
   <br />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FitraRiadi&color=blue&style=flat-square" alt="Profile Views" />
 </div>
