@@ -21,34 +21,26 @@ Always learning, automating workflows, and experimenting with new tech ecosystem
 ## 🛠️ Tech Stack & Ecosystem
 
 ### 🌐 Frontend Development
-<p align="left">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Bootstrap" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</p>
+![React](https://shields.io)
+![Bootstrap](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 ### ⚙️ Backend & Core Languages
-<p align="left">
-  <img src="https://shields.io" alt="Laravel" />
-  <img src="https://shields.io" alt="Golang" />
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Java" />
-</p>
+![Laravel](https://shields.io)
+![Golang](https://shields.io)
+![PHP](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
 
 ### 🗄️ Database & Storage
-<p align="left">
-  <img src="https://shields.io" alt="MySQL" />
-</p>
+![MySQL](https://shields.io)
 
 ### 🧰 DevOps & Desktop Toolkits
-<p align="left">
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Pygame" />
-  <img src="https://shields.io" alt="Kivy" />
-</p>
+![Docker](https://shields.io)
+![Git](https://shields.io)
+![Pygame](https://shields.io)
+![Kivy](https://shields.io)
 
 ---
 
@@ -64,28 +56,20 @@ Always learning, automating workflows, and experimenting with new tech ecosystem
 ## 📊 GitHub Metrics & Insights
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="Fitra's GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://vercel.app" alt="Top Languages" width="350" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://herokuapp.com" alt="GitHub Streak" width="760" />
-      </td>
-    </tr>
-  </table>
+
+![Fitra's GitHub Stats](https://vercel.app)
+
+![Top Languages](https://vercel.app)
+
+![GitHub Streak](https://herokuapp.com)
+
 </div>
 
 ---
 
 ## 💬 Get In Touch
-* 📬 **Email:** Feel free to drop an email at [fitrasmkmerdeka@gmail.com](mailto:fitrasmkmerdeka@gmail.com) for projects, collaborations, or just a friendly chat!
-* 🚀 **Current Status:** Actively looking for open-source contributions and exciting full-stack engineering opportunities.
+* 📬 **Email:** Silakan kirim email ke [fitrasmkmerdeka@gmail.com](mailto:fitrasmkmerdeka@gmail.com) jika ada proyek, kolaborasi, atau sekadar berdiskusi!
+* 🚀 **Status Saat Ini:** Sedang aktif mengeksplorasi kontribusi open-source dan peluang menarik di bidang full-stack development.
 
 <div align="center">
   <br />
