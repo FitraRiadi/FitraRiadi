@@ -1,5 +1,6 @@
-<div align="center">
+<div align="center" style="justify-content:center">
   <img src="./mygif.gif" width="345" alt="Pinterest GIF">
+  <p>Lets See!</p>
 </div>
 
 ### Hey, I'm Fitra Riyadi
