@@ -1,4 +1,4 @@
-<div align="center" style="justify-content:center">
+<div align="center" style="display:flex">
   <img src="./mygif.gif" width="345" alt="Pinterest GIF">
   <p>Lets See!</p>
 </div>
