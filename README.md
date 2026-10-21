@@ -16,5 +16,6 @@ My primary technical stack covers frontend interfaces, core backend microservice
 
 
 
-
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=800585271255361410" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/81/fc/3a/81fc3ac22ec58f03deab08c9dc74813e.gif" width="345" alt="Pinterest GIF">
+</div>
