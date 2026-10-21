@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/81/fc/3a/81fc3ac22ec58f03deab08c9dc74813e.gif" width="345" alt="Pinterest GIF">
+</div>
+
 ### Hey, I'm Fitra Riyadi
 
 [![Email](https://img.shields.io/badge/Email-fitrasmkmerdeka@gmail.com-000?style=flat&logo=gmail)](mailto:fitrasmkmerdeka@gmail.com)
@@ -16,6 +20,3 @@ My primary technical stack covers frontend interfaces, core backend microservice
 
 
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/81/fc/3a/81fc3ac22ec58f03deab08c9dc74813e.gif" width="345" alt="Pinterest GIF">
-</div>
