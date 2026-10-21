@@ -1,7 +1,3 @@
-<div align="center" style="display:flex">
-  <img src="./mygif.gif" width="345" alt="Pinterest GIF">
-  <p>Lets See!</p>
-</div>
 
 ### Hey, I'm Fitra Riyadi
 
@@ -18,6 +14,11 @@ My primary technical stack covers frontend interfaces, core backend microservice
 #### Contributing to
 
 - Open-source tools, full-stack frameworks, and developer utilities.
+
+<div align="center">
+  <img src="./mygif.gif" width="345" alt="Pinterest GIF">
+  <p>Lets See!</p>
+</div>
 
 
 
