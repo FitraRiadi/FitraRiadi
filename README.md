@@ -7,13 +7,8 @@ Full Stack Developer from Indonesia. I focus on exploring new technologies, opti
 
 Most recently, I've been working on backend services, full-stack web architectures, and game/desktop development tools using Go, Laravel, Python, and React.
 
-My primary technical stack covers frontend interfaces, core backend microservices, database systems, and application tooling. You can reach me on [GitHub](https://github.com/FitraRiadi) or via my email [here](mailto:fitrasmkmerdeka@gmail.com).
+My primary technical stack covers frontend interfaces, core backend microservices, database systems, and application tooling. You can reach me on [GitHub](https://github.com/FitraRiadi) or via my email [here](mailto:fitrariyadi45@gmail.com).
 
-
-#### Building & Projects
-
-- **[Project-1](https://github.com/FitraRiadi)** [![GitHub stars](https://img.shields.io/github/stars/FitraRiadi/Project-1?style=flat&color=gold)](https://github.com/FitraRiadi/Project-1) - Short description of your project.
-- **[Project-2](https://github.com/FitraRiadi)** [![GitHub stars](https://img.shields.io/github/stars/FitraRiadi/Project-2?style=flat&color=gold)](https://github.com/FitraRiadi/Project-2) - Short description of your project.
 
 #### Contributing to
 
