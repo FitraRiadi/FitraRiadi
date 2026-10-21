@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/81/fc/3a/81fc3ac22ec58f03deab08c9dc74813e.gif" width="345" alt="Pinterest GIF">
+  <img src="./mygif.gif" width="345" alt="Pinterest GIF">
 </div>
 
 ### Hey, I'm Fitra Riyadi
